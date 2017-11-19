@@ -4,4 +4,4 @@ node_modules/
 _frontaccounting
 *.zip
 *.tgz
-
+public/
